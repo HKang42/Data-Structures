@@ -1,5 +1,6 @@
 import unittest
-from queue import Queue
+#from queue import Queue
+from queue_linked_list import Queue
 
 class QueueTests(unittest.TestCase):
     def setUp(self):

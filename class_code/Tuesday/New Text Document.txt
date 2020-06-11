@@ -1,0 +1,5 @@
+Here's the updated singly_linked_list.py implementation with a working remove_tail method. It turned out that the issue was the fact that we had not set tail to None before re-assigning it to refer to the node right before the tail.
+
+Here's the stack implementation using the singly_linked_list.
+
+And here's the queue implementation:
